@@ -4,7 +4,7 @@
 // let _db;
 
 // const MongoConnect= callback =>{
-//   MongoClient.connect('mongodb+srv://Abhinab:Abhinab%40123@cluster0.koqpyqh.mongodb.net/?retryWrites=true&w=majority')
+//   MongoClient.connect()
 //     .then(client=>{
 //       _db=client.db('shop')
 //       console.log('Done')
